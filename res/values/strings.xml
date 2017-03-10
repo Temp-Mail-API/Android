@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempMail</string>
+
+    <!-- Activity main menu -->
+    <string name="refresh">Refresh</string>
+    <string name="share">Share address</string>
+    <string name="copy_clip">Copy address</string>
+    <string name="change_email">Change email</string>
+    <string name="about">About</string>
+
+    <!-- Activity message menu -->
+    <string name="properties">Properties</string>
+
+    <!-- Activity main -->
+    <string name="no_message">No message</string>
+    <string name="copied">Email address copied to clipboard</string>
+
+    <!-- Activity message -->
+    <string name="from">From:</string>
+    <string name="subject">Subject:</string>
+    <string name="time">Time:</string>
+
+    <!-- Share -->
+    <string name="share_via">Share via</string>
+
+    <!-- About dialog -->
+    <string name="close">Close</string>
+
+    <!-- Change email dialog -->
+    <string name="cancel">Cancel</string>
+    <string name="Ok">Ok</string>
+    <string name="create">Create</string>
+    <string name="title_dialog">Change email</string>
+    <string name="description_dialog">To change the email address, please enter the desired E-mail address.</string>
+    <string name="login">Login</string>
+    <string name="domine">Domine</string>
+
+</resources>
